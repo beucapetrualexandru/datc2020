@@ -1,0 +1,3 @@
+O aplicatie de tip Software as a Service pe care am folosit-o este Office 365. 
+
+Office 365 este o linie de servicii de abonament oferite de Microsoft care apartine de  Microsoft Office. Cuprinde planuri care permit utilizarea suitei software Microsoft Office pe toată durata abonamentului, precum și  servicii cloud based  pentru medii de afaceri, cum ar fi serverul Microsoft Exchange , Skype for Business  și SharePoint. Toate planurile Office 365 includ actualizări automate ale software-ului respectiv fără costuri suplimentare
