@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/netcoreapp3.1/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5fb6e358-6d51-4298-90a4-22e7d21f0416/resourceGroups/Scoala/providers/Microsoft.Web/sites/beucaalexandru"
+}
